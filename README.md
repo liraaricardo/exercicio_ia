@@ -24,6 +24,8 @@ Mini-projetos/jogos: jogo de adivinhação, jogo da forca, jogo da velha, jogo d
 Abra o notebook Exercicios_Python__Ricardo_Lira_6B_Noturno_.ipynb no Google Colab ou Jupyter.
 Execute as células na ordem, uma a uma.
 Alguns exercícios pedem entrada de dados via input() — digite os valores solicitados no campo que aparece abaixo da célula.
+
+link:https://colab.research.google.com/drive/1dCyuu0RUAHcGDIonlRq-v98kycULgHD3?usp=sharing
 👤 Autor
 
 Ricardo Lira — Engenharia de Software, UMC (turma 6B Noturno)
